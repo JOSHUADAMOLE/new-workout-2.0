@@ -1,0 +1,29 @@
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\Joshua's Website.csproj.AssemblyReference.cache
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\Joshua's Website.csproj.SuggestedBindingRedirects.cache
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dashboard.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.gender.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.height.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Join.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Schedule.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\Joshua's Website.csproj.GenerateResource.cache
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\Joshua's Website.csproj.CoreCompileInputs.cache
+D:\visual studio Project's\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\visual studio Project's\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\visual studio Project's\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\visual studio Project's\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.52.dll
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\Joshua's Website.csproj.CopyComplete
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.weight.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fitnesslvl.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.max.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateAccount.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Achievements.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Setting.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Shop.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.buying.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.checkout.resources
+D:\visual studio Project's\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Shipping.resources
